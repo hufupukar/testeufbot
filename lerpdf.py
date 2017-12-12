@@ -8,3 +8,4 @@ for i in range(2, 42650): #TESTE
         teste=sheet.cell(row=i, column=3).value
         teste.encode('utf-8')
         print(teste.encode('utf-8'))
+#teste
